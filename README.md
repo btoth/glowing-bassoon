@@ -1,4 +1,4 @@
-# bassoon
+# Sjabloontje
 Minimalistic template engine for Python.
 
 ## Example

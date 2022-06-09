@@ -1,4 +1,4 @@
-from bassoon import TemplateParser
+from sjabloontje import TemplateParser
 
 template = TemplateParser().parse("""
 {{name}}'s inventory:
