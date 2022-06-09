@@ -1,4 +1,4 @@
-# glowing-bassoon
+# bassoon
 Minimalistic template engine for Python.
 
 ## Example
@@ -16,8 +16,7 @@ print(template.dumps(name = "btoth", inventory = [("Orwell's 1984", 2), ("the Lo
 
 Which will result in:
 ```
-btoth's nventory:
-
+btoth's inventory:
  * 2 copies of Orwell's 1983
  * A single copy of the Lord of the Rings
 ```
